@@ -43,5 +43,15 @@ transparent background) for convenience.
 | `Chkobba_trefle_09.svg` | Jack (Fante) | [Chkobba_trèfle_09.svg](https://commons.wikimedia.org/wiki/File:Chkobba_trèfle_09.svg) |
 | `Chkobba_trefle_10.svg` | King (Re) | [Chkobba_trèfle_10.svg](https://commons.wikimedia.org/wiki/File:Chkobba_trèfle_10.svg) |
 
+## The Cirulla alternate app icon
+
+`icon/cirulla-alternate-icon.svg` and `icon/cirulla-alternate-icon-1024.png`
+are the alternate app icon of *Cirulla*: the Fante of diamonds
+(`Chkobba_carreau_09`, CC BY-SA 4.0) and the seven of diamonds
+(`Chkobba_carreau_07`, CC0), both by Abjiklam, fanned on a green felt
+background drawn for the app. Because it contains the Fante, the icon is an
+adaptation of CC BY-SA material and is released under **CC BY-SA 4.0** as well,
+with the same credit: original card art by Abjiklam, icon by Filippo Lamanna.
+
 The Ace–7 cards of the same deck are CC0 (public domain) and carry no
 conditions; they are not included here.
